@@ -1,0 +1,41 @@
+/* Estilizando a página */
+html {
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #f0f0f0; /* Cor de fundo da página */
+  }
+  
+  h2 {
+    font-size: 3.0rem;
+    color: #333; /* Cor do título */
+  }
+  
+  p {
+    font-size: 3.0rem;
+    color: #333; /* Cor do texto */
+  }
+  
+  .units {
+    font-size: 1.2rem;
+  }
+  
+  .dht-labels {
+    font-size: 1.5rem;
+    vertical-align: middle;
+    padding-bottom: 15px;
+  }
+  
+  /* Estilizando os ícones */
+  i.fas {
+    font-size: 2.0rem;
+  }
+  
+  /* Estilizando o termômetro e umidade */
+  #temperature,
+  #humidity {
+    color: #059e8a; /* Cor do texto de temperatura e umidade */
+  }
+  
+  
